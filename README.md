@@ -3,7 +3,7 @@ Java UI application interpolates an inputted set of discrete 2D Cartesian Points
 
 Source code is under src folder - 100% Java. All code is developed by myself.
 
-View demo images under Snapshots folder
+View demo images under snapshots folder
 
 
 
